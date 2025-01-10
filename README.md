@@ -20,4 +20,6 @@ Use CloudStream 3 and its extension at your own risk. We are not liable for any 
 
 ---
 
+https://self-similarity.github.io/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/AMWolfstein/Arabico/repo.json
+
 Thank you for using CloudStream 3 and its extension responsibly.
