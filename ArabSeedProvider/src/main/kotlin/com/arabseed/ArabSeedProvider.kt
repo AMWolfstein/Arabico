@@ -8,7 +8,7 @@ import android.util.Log
 
 class ArabSeed : MainAPI() {
     override var lang = "ar"
-    override var mainUrl = "https://arabseed.show"
+    override var mainUrl = "https://asd.quest/main"
     override var name = "ArabSeed"
     override val usesWebView = false
     override val hasMainPage = true
